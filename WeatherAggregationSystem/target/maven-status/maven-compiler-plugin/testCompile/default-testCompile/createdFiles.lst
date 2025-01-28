@@ -1,0 +1,6 @@
+com/weather/aggregation/ClientHandlerTest.class
+com/weather/aggregation/ContentServerTest.class
+com/weather/aggregation/LamportClockTest.class
+com/weather/aggregation/DataStoreTest.class
+com/weather/aggregation/AggregationServerTest.class
+com/weather/aggregation/GETClientTest.class

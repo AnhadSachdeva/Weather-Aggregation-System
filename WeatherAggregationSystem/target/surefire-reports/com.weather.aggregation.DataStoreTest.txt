@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.weather.aggregation.DataStoreTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 31.05 s -- in com.weather.aggregation.DataStoreTest
